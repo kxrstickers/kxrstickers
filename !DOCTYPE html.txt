@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>kxrstickers</title>
+  <style>
+    body {
+      background-color: #111;
+      color: #fff;
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    .shop-button {
+      background: linear-gradient(45deg, #222, #444);
+      color: white;
+      padding: 15px 30px;
+      border: none;
+      border-radius: 10px;
+      font-size: 18px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .shop-button:hover {
+      background: linear-gradient(45deg, #444, #666);
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+
+  <h1>🔥 KXR INDUSTRIES 🔥</h1>
+  <p>ストリートドリル感MAXのオリジナルステッカーを販売中</p>
+
+  <a href="https://kxrstickers.base.shop" target="_blank">
+    <button class="shop-button">ステッカーショップへ</button>
+  </a>
+
+</body>
+</html>
